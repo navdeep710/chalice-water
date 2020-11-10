@@ -132,3 +132,5 @@ dmypy.json
 
 dev.json
 chalice.tf.json
+
+*.zip
